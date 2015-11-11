@@ -6,3 +6,5 @@ In this tutorial series you'll learn how to design a minimal eCommerce theme in 
 In the end, you'll get a theme design that you can use in your own projects.
 
 **Available on Tuts+ November 2015**
+
+![image](https://raw.githubusercontent.com/tutsplus/designing-an-ecommerce-portfolio/master/screenshots/Desktop%20HD.jpg)
